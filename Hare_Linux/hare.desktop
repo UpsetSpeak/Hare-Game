@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Hare
+Type=Application
+Exec=./hare
+Terminal=true
